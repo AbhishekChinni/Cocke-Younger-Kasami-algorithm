@@ -102,7 +102,6 @@ int main()
 		cout << "len is "<<len << endl;
 		for(i=0;i<len;i++)
 		{
-		puts("what the fuck");
 		int t=mat[i][i].cell.size();
 		for(j=0;j<t;j++)
 		{
